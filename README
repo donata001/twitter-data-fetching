@@ -1,0 +1,7 @@
+data fetching on twitter for social media analysis
+
+Please visit http://twitter-data-fetching.appspot.com/ to approach the app
+
+This app is developed with twitter API v1.1, tweepy v2.1, python v2.7 and Google App Engine, it can fetch real time tweets based on your key word and save your results in a simple csv file.
+
+please refer to test.py for original code.
